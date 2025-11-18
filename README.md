@@ -109,9 +109,6 @@ Prevents unauthorized or outdated payments
 
 🔗 8. Short Payment URLs (Bonus Feature)
 
-Each Stripe URL gets a unique 8-character short link
-Example:
-https://paysnap.dev/s/Ab91ExQz
 
 🛠 Additional Bonus Features Implemented
 
