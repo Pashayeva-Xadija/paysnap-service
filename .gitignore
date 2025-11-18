@@ -1,0 +1,38 @@
+### Maven ###
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+### Logs ###
+logs/
+*.log
+
+### IntelliJ IDEA ###
+.idea/
+*.iml
+out/
+
+### Eclipse ###
+.project
+.classpath
+.settings/
+
+### VS Code ###
+.vscode/
+
+### OS Files ###
+.DS_Store
+Thumbs.db
+
+### Environment / Secrets ###
+*.env
+application.properties
+application.yml
+.env.local
+
+### Java ###
+*.class
+
+### Redis / Postgres volumes (local only) ###
+docker/postgres-data/
+docker/redis-data/
+
