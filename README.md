@@ -154,9 +154,10 @@ No public endpoint exposes sensitive data
 Available at:
 http://localhost:2123/swagger-ui/index.html
 
-✨ Created By
+✨ Created By:
 
-Your Name
-📧 your-email@example.com
+Made with  by Xadija Pashayeva
 
-🔗 LinkedIn: https://www.linkedin.com/in/your-profile
+📧 Email: xadijapashayeva@gmail.com
+
+🔗 LinkedIn: https://www.linkedin.com/in/xadija-pashayeva
