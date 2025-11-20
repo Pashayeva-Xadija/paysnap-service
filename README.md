@@ -137,7 +137,7 @@ http://localhost:2123/swagger-ui/index.html
 
 ## ✨ Created By
 
-Made with ❤️ by **Xadija Pashayeva**  
+Made with by **Xadija Pashayeva**  
 
 📧 Email: **xadijapashayeva@gmail.com**  
 🔗 LinkedIn: https://www.linkedin.com/in/xadija-pashayeva
